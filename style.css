@@ -28,7 +28,7 @@ header {
 }
 
 .galeria img:hover {
-  transform: scale(1.05);
+  transform: scale(2.05);
 }
 
 .lightbox {
@@ -63,4 +63,5 @@ header {
   color: white;
   text-align: center;
   margin-top: 10px;
+
 }
